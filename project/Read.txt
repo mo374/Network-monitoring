@@ -1,0 +1,13 @@
+You need these libraries :(Download cmd /pip....)
+
+ -tkinter
+
+ -scapy
+
+ -threading
+
+ -time
+
+
++ Download winpcap from google
+
